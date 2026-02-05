@@ -5,3 +5,9 @@ out
 *.iml
 .DS_Store
 **/*.log
+.git
+.github
+**/test-results
+**/.classpath
+**/.project
+**/.settings
